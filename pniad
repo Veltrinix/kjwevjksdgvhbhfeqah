@@ -1,13 +1,1 @@
-return {
-    PetTable = {
-       Wildfire = {
-            Data = "wildfire skill",
-       },
-       Snowstorm = {
-            Data = "snowstorm skill",
-       },
-       CurePro = {
-            Data = "cure skill",
-       },
-    }
-}
+
