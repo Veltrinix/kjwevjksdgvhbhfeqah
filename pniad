@@ -1,12 +1,1 @@
-return {
-    PetTable = {
-       GuildDragonPet = {
-            Varient = 1,
-            Data = "varient 1",
-       },
-       GuildDragonPet = {
-            Varient = 2,
-            Data = "varient 2",
-       }
-    }
-}
+
